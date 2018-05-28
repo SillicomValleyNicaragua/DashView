@@ -1,0 +1,40 @@
+﻿body {
+}
+
+.centro {
+    position: absolute;
+    height: 500px;
+    width:500px;
+    top: -200px;
+    left: 400px;
+    z-index: 0;
+    border:1px solid #fff;
+   
+}
+.contenedor{
+    position:absolute;
+    top:80px;
+    left:150px;
+    z-index:5;
+    font:400 #ffffff;
+}
+
+.user
+{
+    left:50px;
+    top:50px;
+}
+
+h1{
+    position:absolute;
+    top:-290px;
+    left:500px;
+
+}
+
+.logo{
+    position:absolute;
+    top:-350px;
+    left:1120px;
+    z-index:0;
+}

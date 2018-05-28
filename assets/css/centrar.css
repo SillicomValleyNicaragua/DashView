@@ -1,0 +1,28 @@
+﻿body {
+}
+
+
+#barra{
+    position:absolute;
+    text-align:left left;
+    top:0px;
+    left:0px;
+    z-index:5;
+    font-size:medium;
+    text-shadow:#ffffff;
+    
+}
+
+#contenedor_superior{
+    position:absolute;
+    top:0px;
+    left:0px;
+    z-index:20;
+}
+
+#contenedor_inferior{
+    position:absolute;
+    top:50px;
+    left:0px;
+    z-index:5;
+}
