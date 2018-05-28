@@ -1,0 +1,12 @@
+DevExpress.Patch.InMemoryPatch, DevExpress.Patch.Common, Version=6.2.0.0, Culture=neutral, PublicKeyToken=87f9927a37ac6066
+DevExpress.XtraReports.Web.ASPxDocumentViewer, DevExpress.XtraReports.v17.2.Web, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.Bootstrap.BootstrapPopupMenu, DevExpress.Web.Bootstrap.v17.2, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraReports.Web.ASPxWebDocumentViewer, DevExpress.XtraReports.v17.2.Web, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.ASPxPopupMenu, DevExpress.Web.v17.2, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraReports.Web.ASPxReportDesigner, DevExpress.XtraReports.v17.2.Web, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.ASPxMenu, DevExpress.Web.v17.2, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.Bootstrap.BootstrapRadioButton, DevExpress.Web.Bootstrap.v17.2, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.Bootstrap.BootstrapButton, DevExpress.Web.Bootstrap.v17.2, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.DashboardWeb.ASPxDashboard, DevExpress.Dashboard.v17.2.Web, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v17.2, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.ASPxPanel, DevExpress.Web.v17.2, Version=17.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
